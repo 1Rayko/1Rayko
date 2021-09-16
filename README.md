@@ -9,8 +9,8 @@
 ![Image alt](https://github.com/kotik06/kotik06/raw/main/5.jpg)
 
 ### My contacts
-  # :hamster:VK: https://vk.com/sudoreboot
-  # :panda_face:Telegram: https://t.me/cyberivan_0
+  # :hamster:[VK](https://vk.com/sudoreboot)
+  # :panda_face:[Telegram](https://t.me/cyberivan_0)
   # :e-mail:Mail: alexHate1@protonmail.com
 
 ### [My dotfiles](https://github.com/zerocodex86/dotfiles)
