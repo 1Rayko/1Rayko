@@ -15,7 +15,7 @@
   # :e-mail:Mail: alexHate1@protonmail.com
   
 ### [My dotfiles](https://github.com/zerocodex86/dotfiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerocodex86&repo=dotfiles&show_icons=true&theme=ocean_dark)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerocodex86&repo=dotfiles&show_icons=true&theme=ocean_dark)
 
 
 ![Image](https://vk.com/sticker/1-50642-128) 
