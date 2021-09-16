@@ -10,5 +10,5 @@
 
 ### My contacts
   # :hamster:VK: https://vk.com/sudoreboot
-  # :panda_face:Telegram: @cyberivan_0
+  # :panda_face:Telegram: https://t.me/cyberivan_0
   # :e-mail:Mail: alexHate1@protonmail.com
