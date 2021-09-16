@@ -12,3 +12,6 @@
   # :hamster:VK: https://vk.com/sudoreboot
   # :panda_face:Telegram: https://t.me/cyberivan_0
   # :e-mail:Mail: alexHate1@protonmail.com
+
+### My dotfiles
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerocodex866&repo=dotfiles&show_icons=true&theme=ocean_dark)]
