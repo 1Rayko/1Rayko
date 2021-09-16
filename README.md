@@ -12,7 +12,7 @@
   # :hamster:[VK](https://vk.com/sudoreboot)
   # :panda_face:[Telegram](https://t.me/cyberivan_0)
   # :e-mail:Mail: alexHate1@protonmail.com
-
+  # :cat:[OSU!](https://osu.ppy.sh/users/19204124)
 ### [My dotfiles](https://github.com/zerocodex86/dotfiles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerocodex86&repo=dotfiles&show_icons=true&theme=ocean_dark)]
 
