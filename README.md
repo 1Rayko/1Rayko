@@ -26,6 +26,9 @@
 <img align="left" alt="Kivy" width="32px" src="https://raw.githubusercontent.com/github/explore/5d823171791ab9e6bc894aea5b350c996febf511/topics/kivy/kivy.png" />
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" />
+<img align="left" alt="ARCH" width="26px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" />
+<img align="left" alt="ARCH" width="26px" src="hhttps://avatars.mds.yandex.net/i?id=6ab3c72afbf9cb94314ea77e93bbb940-5194042-images-thumbs&n=13" />
+
 <br />
 
 
