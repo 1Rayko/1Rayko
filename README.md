@@ -44,7 +44,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerocodex86&repo=dotfiles&show_icons=true&theme=ocean_dark)](https://github.com/zerocodex86/dotfiles)
 
 
-<iframe width="854" height="480" src="https://www.youtube.com/watch?v=Yq-wStE_C3Y" frameborder="0" allowfullscreen></iframe>
-
 ![Image](https://vk.com/sticker/1-50642-128) 
 I USE ARCH BTW
