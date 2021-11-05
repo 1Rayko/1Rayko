@@ -5,7 +5,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=VKTOOL&show_icons=true&theme=ocean_dark)](https://github.com/kotik06/VKTOOL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=SILENt&show_icons=true&theme=ocean_dark)](https://github.com/kotik06/SILENt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=vkbots&show_icons=true&theme=ocean_dark)](https://github.com/kotik06/vkbots)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=tproger.ru_parser&show_icons=true&theme=ocean_dark)](https://github.com/kotik06/tproger.ru_parser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=gcoms&show_icons=true&theme=ocean_dark)](https://github.com/kotik06/gcoms)
 <br />
 ![Image alt](https://github.com/kotik06/kotik06/raw/main/5.jpg)
 
