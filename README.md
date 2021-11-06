@@ -7,6 +7,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=vkbots&show_icons=true&theme=github_dark)](https://github.com/kotik06/vkbots)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=gcoms&show_icons=true&theme=github_dark)](https://github.com/kotik06/gcoms)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotik06&hide=css&langs_count=10&theme=github_dark)](https://github.com/kotik06)
+
 ## About me
 - 🔭 I’m currently working on [VKTOOL](https://github.com/kotik06/VKTOOL)
 - 🌱 I’m currently learning DevOps
