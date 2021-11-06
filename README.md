@@ -19,8 +19,8 @@
 
 ## Contact with me
   - ### [<img algin="left" alt="VK" width="26px" src="https://avatars.githubusercontent.com/u/1478241?s=200&v=4">](https://vk.com/sudoreboot)
-  - ### [<img align="left" alt="Telegram" width="26px" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4" />](https://t.me/cyberivan_0)
   - ### [<img algin="left" alt ="OSU!" width="26px" src="https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png">](https://osu.ppy.sh/users/19204124)
+  - ### [<img align="left" alt="Telegram" width="26px" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4" />](https://t.me/cyberivan_0)
   - ### <img algin="left" alt="Protonmail" width="26px" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> alexHate1@protonmail.com
 
 
