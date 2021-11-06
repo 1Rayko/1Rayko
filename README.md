@@ -28,7 +28,7 @@
   
 
 ## My dotfiles
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerocodex86&repo=dotfiles&show_icons=true&theme=ocean_dark)](https://github.com/zerocodex86/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerocodex86&repo=dotfiles&show_icons=true&theme=github_dark)](https://github.com/zerocodex86/dotfiles)
 
 
 ## Skills and tools
