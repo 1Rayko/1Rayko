@@ -23,8 +23,7 @@
   - ### <img algin="left" alt="Protonmail" width="26px" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> alexHate1@protonmail.com
   - ### [<img align="left" alt="Telegram" width="26px" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4" />](https://t.me/cyberivan_0)
   
-
-
+---
 
 ## My dotfiles
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerocodex86&repo=dotfiles&show_icons=true&theme=ocean_dark)](https://github.com/zerocodex86/dotfiles)
