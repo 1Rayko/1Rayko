@@ -12,7 +12,7 @@
 ## About me
 - 🔭 I’m currently working on [VKTOOL](https://github.com/kotik06/VKTOOL)
 - 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on Pavel Durov's
+- 👯 I’m looking to collaborate with Pavel Durov
 - 🤔 I’m looking for help with JS
 - 💬 Ask me about [ask fm](https://ask.fm/sudoreboot)
 - 📫 How to reach me: [My contacts](https://github.com/kotik06/#Contact-with-me)
