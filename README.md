@@ -1,4 +1,4 @@
-# *Hi there* 👋
+# *Sup?* 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotik06&show_icons=true&theme=github_dark)](https://github.com/kotik06)
 <br />
