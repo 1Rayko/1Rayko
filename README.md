@@ -1,21 +1,21 @@
 # *Sup?* 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotik06&show_icons=true&theme=github_dark)](https://github.com/kotik06)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Rayko&show_icons=true&theme=github_dark)](https://github.com/1Rayko)
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=VKTOOL&show_icons=true&theme=github_dark)](https://github.com/kotik06/VKTOOL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=SILENt&show_icons=true&theme=github_dark)](https://github.com/kotik06/SILENt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=vkbots&show_icons=true&theme=github_dark)](https://github.com/kotik06/vkbots)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kotik06&repo=gcoms&show_icons=true&theme=github_dark)](https://github.com/kotik06/gcoms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=VKTOOL&show_icons=true&theme=github_dark)](https://github.com/1Rayko/VKTOOL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=SILENt&show_icons=true&theme=github_dark)](https://github.com/1Rayko/SILENt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=vkbots&show_icons=true&theme=github_dark)](https://github.com/1Rayko/vkbots)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=gcoms&show_icons=true&theme=github_dark)](https://github.com/1Rayko/gcoms)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotik06&hide=css,html&langs_count=10&theme=github_dark)](https://github.com/kotik06)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Rayko&hide=css,html&langs_count=10&theme=github_dark)](https://github.com/1Rayko)
 
 ## About me
-- 🔭 I’m currently working on [VKTOOL](https://github.com/kotik06/VKTOOL)
+- 🔭 I’m currently working on [VKTOOL](https://github.com/1Rayko/VKTOOL)
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate with Pavel Durov
 - 🤔 I’m looking for help with JS
 - 💬 Ask me about [ask fm](https://ask.fm/sudoreboot)
-- 📫 How to reach me: [My contacts](https://github.com/kotik06/#Contact-with-me)
+- 📫 How to reach me: [My contacts](https://github.com/1Rayko/#Contact-with-me)
 - ⚡ Fun fact: I'm a *lazy* workaholic
 -  *__I USE ARCH BTW__* <img align="left" alt="stic" width="26px" src="https://vk.com/sticker/1-50642-128" >
 
