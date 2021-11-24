@@ -31,7 +31,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerocodex86&repo=dotfiles&show_icons=true&theme=github_dark)](https://github.com/zerocodex86/dotfiles)
 
 ## Website
-![sudoreboot.herokuapp.com](https://sudoreboot.herokuapp.com/)
+[sudoreboot.herokuapp.com](https://sudoreboot.herokuapp.com/)
 ## Skills and tools
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
