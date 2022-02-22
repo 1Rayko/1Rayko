@@ -23,15 +23,13 @@
 -->
 <!---<img src='standard(1).gif'/>
 --->
-<p id='bnr' align="center">
-  <a href="#bnr"><img src='standard(2).gif'/></a>
+<p align="center">
+  <a><img src='standard(2).gif'/></a>
 </p>
 
 
 <p align="center">
-
-
-   <a href="https://vk.com/sudoreboot"><img alt="VK" width="36px" src="https://avatars.githubusercontent.com/u/1478241?s=200&v=4"/></a>
+   <a href="https://vk.com/sudoreboot"><img alt="VK" width="36px" src="https://cdn0.iconfinder.com/data/icons/popular-services-brands/512/vkontakte-512.png"/></a>
    <a href="https://osu.ppy.sh/users/19204124"><img alt ="OSU!" width="36px" src="https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png"/></a>
    <a href='mailto:alexHate1@protonmail.com'><img  alt="Protonmail" width="36px" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"/></a>
    <a href="https://t.me/cyberivan_0"><img width="36px" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"></a>
