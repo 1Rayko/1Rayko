@@ -25,7 +25,7 @@
 --->
 <p id='bnr' align="center">
   <a href="#bnr"><img src='standard(2).gif'/></a>
-<p>
+</p>
 
 
 <p align="center">
