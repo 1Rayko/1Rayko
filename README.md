@@ -1,5 +1,5 @@
 # *Sup?* 👋
-
+<!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Rayko&show_icons=true&theme=github_dark)](https://github.com/1Rayko)
 <br />
 
@@ -19,7 +19,7 @@
 - 📫 How to reach me: [My contacts](https://github.com/1Rayko/#Contact-with-me)
 - ⚡ Fun fact: I'm a *lazy* workaholic
 -  *__I USE ARCH BTW__* <img align="left" alt="stic" width="26px" src="https://vk.com/sticker/1-50642-128" >
-
+-->
 ## Contact with me
   - ### [<img algin="left" alt="VK" width="26px" src="https://avatars.githubusercontent.com/u/1478241?s=200&v=4">](https://vk.com/sudoreboot)
   - ### [<img algin="left" alt ="OSU!" width="26px" src="https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png">](https://osu.ppy.sh/users/19204124)
