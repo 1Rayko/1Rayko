@@ -38,6 +38,8 @@
 <p align='center'>
   
   
+  ---
+  
 <a href="https://github.com/zerocodex86/dotfiles"><img src='https://github-readme-stats.vercel.app/api/pin/?username=zerocodex86&repo=dotfiles&show_icons=true&theme=github_dark'/></a>
 
 
