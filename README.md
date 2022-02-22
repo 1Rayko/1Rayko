@@ -23,8 +23,10 @@
 -->
 <!---<img src='standard(1).gif'/>
 --->
+<p id='bnr' align="center">
+  <a href="#bnr"><img src='standard(2).gif'/></a>
+<p>
 
-<img src='standard(2).gif'/>
 
 <p align="center">
 
