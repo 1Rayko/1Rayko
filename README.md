@@ -26,13 +26,14 @@
 
 <img src='standard(2).gif'/>
 
+<p align="center">
 
-   [<img algin="center" alt="VK" width="36px" src="https://avatars.githubusercontent.com/u/1478241?s=200&v=4"/>](https://vk.com/sudoreboot)
-   [<img algin="center" alt ="OSU!" width="36px" src="https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png"/>](https://osu.ppy.sh/users/19204124)
-   [<img algin="center" alt="Protonmail" width="36px" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"/>](mailto:alexHate1@protonmail.com)
-   [<img align="center" alt="Telegram" width="36px" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4"/>](https://t.me/cyberivan_0)
 
-  
+   <a href="https://vk.com/sudoreboot"><img algin="center" alt="VK" width="36px" src="https://avatars.githubusercontent.com/u/1478241?s=200&v=4"/></a>
+   <a href="https://osu.ppy.sh/users/19204124"><img algin="center" alt ="OSU!" width="36px" src="https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png"/></a>
+   <a href='mailto:alexHate1@protonmail.com'><img algin="center" alt="Protonmail" width="36px" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"/></a>
+   <a href="https://t.me/cyberivan_0"><img width="32px" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"></a>
+</p>  
 
 ## My dotfiles
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerocodex86&repo=dotfiles&show_icons=true&theme=github_dark)](https://github.com/zerocodex86/dotfiles)
