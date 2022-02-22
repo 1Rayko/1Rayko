@@ -30,8 +30,8 @@
 
 
 <p align="center">
-   <a href="https://vk.com/sudoreboot"><img alt="VK" width="36px" src="http://vgp-2.ru/img/vk3.png"/></a>
-   <a href='mailto:alexHate1@protonmail.com'><img  alt="Protonmail" width="36px" src="https://user-images.githubusercontent.com/8083855/32895220-c06dd68a-caf8-11e7-93f6-5b969f4d4004.png"/></a>
+   <a href="https://vk.com/sudoreboot"><img alt="VK" width="36px" src="https://static.tildacdn.com/tild6230-3531-4233-b664-653436333631/IMGBIN_youtube-music.png"/></a>
+   <a href='mailto:alexHate1@protonmail.com'><img  alt="Protonmail" width="36px" src="https://w7.pngwing.com/pngs/173/390/png-transparent-youtube-computer-icons-logo-email-icon-angle-photography-email-icon.png"/></a>
    <a href="https://t.me/cyberivan_0"><img width="36px" src="https://static-sl.insales.ru/files/1/1421/16655757/original/Telegram-2.png"></a>
 </p>  
 
