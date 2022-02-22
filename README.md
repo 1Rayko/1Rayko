@@ -9,10 +9,7 @@
 4. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=gcoms&show_icons=true&theme=github_dark)](https://github.com/1Rayko/gcoms)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Rayko&hide=css,html&langs_count=10&theme=github_dark)](https://github.com/1Rayko)
-[!g1](standard(1).gif)
 
-
-[!g2](standard(2).gif)
 
 ## About me
 - 🔭 I’m currently working on [VKTOOL](https://github.com/1Rayko/VKTOOL)
@@ -24,6 +21,10 @@
 - ⚡ Fun fact: I'm a *lazy* workaholic
 -  *__I USE ARCH BTW__* <img align="left" alt="stic" width="26px" src="https://vk.com/sticker/1-50642-128" >
 -->
+[!g1](standard(1).gif)
+
+
+[!g2](standard(2).gif)
 ## Contact with me
   - ### [<img algin="left" alt="VK" width="26px" src="https://avatars.githubusercontent.com/u/1478241?s=200&v=4">](https://vk.com/sudoreboot)
   - ### [<img algin="left" alt ="OSU!" width="26px" src="https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png">](https://osu.ppy.sh/users/19204124)
