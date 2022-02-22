@@ -1,5 +1,5 @@
 # *Sup?* 👋
-<!---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Rayko&show_icons=true&theme=github_dark)](https://github.com/1Rayko)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=VKTOOL&show_icons=true&theme=github_dark)](https://github.com/1Rayko/VKTOOL)
@@ -8,7 +8,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=gcoms&show_icons=true&theme=github_dark)](https://github.com/1Rayko/gcoms)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Rayko&hide=css,html&langs_count=10&theme=github_dark)](https://github.com/1Rayko)
---->
+
 ## About me
 - 🔭 I’m currently working on [VKTOOL](https://github.com/1Rayko/VKTOOL)
 - 🌱 I’m currently learning DevOps
@@ -17,7 +17,7 @@
 - 💬 Ask me about [ask fm](https://ask.fm/sudoreboot)
 - 📫 How to reach me: [My contacts](https://github.com/1Rayko/#Contact-with-me)
 - ⚡ Fun fact: I'm a *lazy* workaholic
--  *__I USE VOID BTW__* <img align="left" alt="stic" width="26px" src="https://vk.com/sticker/1-50642-128" >
+-  *__I USE ARCH BTW__* <img align="left" alt="stic" width="26px" src="https://vk.com/sticker/1-50642-128" >
 
 ## Contact with me
   - ### [<img algin="left" alt="VK" width="26px" src="https://avatars.githubusercontent.com/u/1478241?s=200&v=4">](https://vk.com/sudoreboot)
