@@ -9,6 +9,10 @@
 4. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=gcoms&show_icons=true&theme=github_dark)](https://github.com/1Rayko/gcoms)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Rayko&hide=css,html&langs_count=10&theme=github_dark)](https://github.com/1Rayko)
+[!g1](standard(1).gif)
+
+
+[!g2](standard(2).gif)
 
 ## About me
 - 🔭 I’m currently working on [VKTOOL](https://github.com/1Rayko/VKTOOL)
