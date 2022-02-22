@@ -27,12 +27,10 @@
 <img src='standard(2).gif'/>
 
 
-
-## Contact with me
-   [<img algin="left" alt="VK" width="36px" src="https://avatars.githubusercontent.com/u/1478241?s=200&v=4"/>](https://vk.com/sudoreboot)
-   [<img algin="left" alt ="OSU!" width="36px" src="https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png"/>](https://osu.ppy.sh/users/19204124)
-   [<img algin="left" alt="Protonmail" width="36px" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"/>](mailto:alexHate1@protonmail.com)
-   [<img align="left" alt="Telegram" width="36px" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4"/>](https://t.me/cyberivan_0)
+   [<img algin="center" alt="VK" width="36px" src="https://avatars.githubusercontent.com/u/1478241?s=200&v=4"/>](https://vk.com/sudoreboot)
+   [<img algin="center" alt ="OSU!" width="36px" src="https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png"/>](https://osu.ppy.sh/users/19204124)
+   [<img algin="center" alt="Protonmail" width="36px" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"/>](mailto:alexHate1@protonmail.com)
+   [<img align="center" alt="Telegram" width="36px" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4"/>](https://t.me/cyberivan_0)
 
   
 
