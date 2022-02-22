@@ -1,4 +1,4 @@
-# *Sup?* 👋
+
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Rayko&show_icons=true&theme=github_dark)](https://github.com/1Rayko)
 <br />
@@ -23,6 +23,7 @@
 -->
 <!---<img src='standard(1).gif'/>
 --->
+<!---  идею взял у https://raw.githubusercontent.com/raitonoberu/raitonoberu/main/README.md--->
 <p align="center">
   <a><img src='standard(2).gif'/></a>
 </p>
