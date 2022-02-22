@@ -2,10 +2,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Rayko&show_icons=true&theme=github_dark)](https://github.com/1Rayko)
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=VKTOOL&show_icons=true&theme=github_dark)](https://github.com/1Rayko/VKTOOL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=SILENt&show_icons=true&theme=github_dark)](https://github.com/1Rayko/SILENt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=vkbots&show_icons=true&theme=github_dark)](https://github.com/1Rayko/vkbots)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=gcoms&show_icons=true&theme=github_dark)](https://github.com/1Rayko/gcoms)
+
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=VKTOOL&show_icons=true&theme=github_dark)](https://github.com/1Rayko/VKTOOL)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=SILENt&show_icons=true&theme=github_dark)](https://github.com/1Rayko/SILENt)
+   |
+|---|---|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=vkbots&show_icons=true&theme=github_dark)](https://github.com/1Rayko/vkbots)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1Rayko&repo=gcoms&show_icons=true&theme=github_dark)](https://github.com/1Rayko/gcoms)
+  |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Rayko&hide=css,html&langs_count=10&theme=github_dark)](https://github.com/1Rayko)
 
