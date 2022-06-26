@@ -89,3 +89,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" />
+
+<img align="left" alt="Wireshark" width="26px" src="https://www.etecenter.com/images/wireshark.png"/>
+
+<img align="left" alt="Nmap" width="26px" src="https://networkguru.ru/image/nmap-scripting-engine-rukovodstvo-01.jpg"/>
