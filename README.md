@@ -16,7 +16,7 @@
 ## Skills and tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href=">
     <img src="https://skillicons.dev/icons?i=java,kotlin,python,flask,c,cpp,cs,dotnet,php,js,html,css,md,git,linux,bash,mysql,docker,vim,neovim,vscode,visualstudio,arduino,androidstudio,gradle,figma,ps,ai&perline=7"/>
     </a>
 
